@@ -1,6 +1,6 @@
 const MongoClient = require("mongodb").MongoClient;
 
-const uri = "mongodb+srv://umar_Khan:khundachoke1234@cluster0.ik1pu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+const uri = ""
 const {ObjectId} = require ('mongodb')
 //add monodb srv to ur own cluster on mongo atlas
 
